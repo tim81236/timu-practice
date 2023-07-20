@@ -81,7 +81,7 @@ table {
 	align-items: center;
 	width: 1000px;
 	height: 346px;
-	background-image: url(/images/banner.png);
+	background-image: url(../images/banner.png);
 	background-size: cover;
 	/* border: 1px solid #000; */
 	margin: 0 auto;
